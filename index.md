@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang = "en">
 <head>
 	<meta  charset="UTF=8"/>
@@ -77,7 +77,7 @@
 		  Message</label></div>
 		  <div style="text-align: center;">
 		  <textarea name="message" placeholder="Write something......"></textarea>
-		</label>
+		
 	</div>
 		<!-- your other form fields go here -->
 	  <div><button type="submit">Send</button></div>	
